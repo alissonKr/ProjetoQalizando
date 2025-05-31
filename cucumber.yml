@@ -1,0 +1,3 @@
+homolog: URL=http://www.google.com
+prod: URL=https://www.linkedin.com/login/pt
+json: "--format json --out relatorio_invalido.json"
